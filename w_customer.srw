@@ -20,6 +20,7 @@ end type
 global w_customer w_customer
 
 event open;//
+//Test1
 end event
 
 on w_customer.create
